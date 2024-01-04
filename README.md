@@ -5,9 +5,10 @@
 💞️ I’m looking to collaborate on bug bounties.
 
 📫 How to reach me:
-  - Email: scampbell@aecyberpro.com
+  - Email: [sdcampbell68@live.com](mailto:sdcampbell68@live.com)
   - Discord: lpha3ch0
-  - Twitter/X: [@lpha3ch0](https://twitter.com/lpha3ch0)
+  - [Twitter/X](https://twitter.com/lpha3ch0)
+  - [LinkedIn](https://www.linkedin.com/in/hack-the-planet/)
 
 <!---
 aecyberpro/aecyberpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
